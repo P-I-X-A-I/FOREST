@@ -1,0 +1,42 @@
+#version 430
+
+// from vs
+in vec4 texcoord_VS;
+
+// out color
+layout ( location = 0 ) out vec4 FRAG_COLOR_0;
+
+// built in variable
+// vec4 gl_FragCoord;
+// bool gl_FrontFacing;
+// vec2 gl_PointCoord;
+
+uniform sampler2D TEX_INDEX;
+uniform int DEBUG_FLAG;
+
+const vec4 debugColor[5] = {
+	vec4(1.0, 0.0, 0.0, 1.0),
+	vec4(0.0, 1.0, 0.0, 1.0),
+	vec4(1.0, 0.0, 0.0, 1.0),
+	vec4(1.0, 1.0, 0.0, 1.0),
+	vec4(0.0, 1.0, 1.0, 1.0)};
+
+void main()
+{
+	vec4 texColor = texture(TEX_INDEX, texcoord_VS.st);
+	
+
+	// normal color
+	if(DEBUG_FLAG == 0)
+	{
+		FRAG_COLOR_0 = vec4(texColor.rgb, texcoord_VS.b);
+		gl_FragDepth = gl_FragCoord.z;
+
+	}
+	else
+	{
+		FRAG_COLOR_0 = debugColor[DEBUG_FLAG-1];
+		gl_FragDepth = 0.0;
+	}
+	// depth
+}

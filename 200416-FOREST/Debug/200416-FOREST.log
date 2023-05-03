@@ -1,0 +1,7 @@
+﻿  200416-FOREST.cpp
+c:\users\annolab\desktop\vc_project\200416-forest\200416-forest\200416-forest.cpp(139): warning C4477: 'printf' : 書式文字列 '%d' には、型 'int' の引数が必要ですが、可変個引数 1 は型 'time_t' です
+  c:\users\annolab\desktop\vc_project\200416-forest\200416-forest\200416-forest.cpp(139): note: 書式文字列に '%lld' を使用することをお勧めします
+  c:\users\annolab\desktop\vc_project\200416-forest\200416-forest\200416-forest.cpp(139): note: 書式文字列に '%I64d' を使用することをお勧めします
+  mainController.cpp
+  コードを生成中...
+  200416-FOREST.vcxproj -> C:\Users\annolab\Desktop\VC_Project\200416-FOREST\Debug\200416-FOREST.exe

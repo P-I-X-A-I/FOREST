@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="ソース ファイル">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="ヘッダー ファイル">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="リソース ファイル">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="myClass">
+      <UniqueIdentifier>{aa81d13f-1ecc-4bf1-b95b-da927745203c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="myClass\UTILITY">
+      <UniqueIdentifier>{ca513afd-eb9c-4885-a7d2-6335f3315232}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="myClass\mainController">
+      <UniqueIdentifier>{4185a914-9455-4978-b2f1-10f06aed4d83}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="myClass\SHADER">
+      <UniqueIdentifier>{36e43d66-7b15-4050-bae7-761a5df90f00}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="200416-FOREST.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="glew.h">
+      <Filter>myClass\UTILITY</Filter>
+    </ClInclude>
+    <ClInclude Include="NotificationCenterClass.h">
+      <Filter>myClass\UTILITY</Filter>
+    </ClInclude>
+    <ClInclude Include="OpenGLInitializerClass.h">
+      <Filter>myClass\UTILITY</Filter>
+    </ClInclude>
+    <ClInclude Include="wglew.h">
+      <Filter>myClass\UTILITY</Filter>
+    </ClInclude>
+    <ClInclude Include="WindowManagerClass.h">
+      <Filter>myClass\UTILITY</Filter>
+    </ClInclude>
+    <ClInclude Include="png24LoaderClass.h">
+      <Filter>myClass\UTILITY</Filter>
+    </ClInclude>
+    <ClInclude Include="shaderLoaderClass.h">
+      <Filter>myClass\UTILITY</Filter>
+    </ClInclude>
+    <ClInclude Include="stopWatch.h">
+      <Filter>myClass\UTILITY</Filter>
+    </ClInclude>
+    <ClInclude Include="matrixClass.h">
+      <Filter>myClass\UTILITY</Filter>
+    </ClInclude>
+    <ClInclude Include="mainController.h">
+      <Filter>myClass\mainController</Filter>
+    </ClInclude>
+    <ClInclude Include="animationManager.h">
+      <Filter>myClass</Filter>
+    </ClInclude>
+    <ClInclude Include="generateManager.h">
+      <Filter>myClass</Filter>
+    </ClInclude>
+    <ClInclude Include="OSC.h">
+      <Filter>myClass\UTILITY</Filter>
+    </ClInclude>
+    <ClInclude Include="UDPClass.h">
+      <Filter>myClass\UTILITY</Filter>
+    </ClInclude>
+    <ClInclude Include="lifeGameManager.h">
+      <Filter>myClass</Filter>
+    </ClInclude>
+    <ClInclude Include="ovalManager.h">
+      <Filter>myClass</Filter>
+    </ClInclude>
+    <ClInclude Include="fmod.h">
+      <Filter>myClass\UTILITY</Filter>
+    </ClInclude>
+    <ClInclude Include="fmod.hpp">
+      <Filter>myClass\UTILITY</Filter>
+    </ClInclude>
+    <ClInclude Include="fmod_codec.h">
+      <Filter>myClass\UTILITY</Filter>
+    </ClInclude>
+    <ClInclude Include="fmod_dsp.h">
+      <Filter>myClass\UTILITY</Filter>
+    </ClInclude>
+    <ClInclude Include="fmod_errors.h">
+      <Filter>myClass\UTILITY</Filter>
+    </ClInclude>
+    <ClInclude Include="fmod_memoryinfo.h">
+      <Filter>myClass\UTILITY</Filter>
+    </ClInclude>
+    <ClInclude Include="fmod_output.h">
+      <Filter>myClass\UTILITY</Filter>
+    </ClInclude>
+    <ClInclude Include="fmodlinux.h">
+      <Filter>myClass\UTILITY</Filter>
+    </ClInclude>
+    <ClInclude Include="soundClass.h">
+      <Filter>myClass</Filter>
+    </ClInclude>
+    <ClInclude Include="windParticleManager.h">
+      <Filter>myClass</Filter>
+    </ClInclude>
+    <ClInclude Include="flyingBugManager.h">
+      <Filter>myClass</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="200416-FOREST.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="NotificationCenterClass.cpp">
+      <Filter>myClass\UTILITY</Filter>
+    </ClCompile>
+    <ClCompile Include="OpenGLInitializerClass.cpp">
+      <Filter>myClass\UTILITY</Filter>
+    </ClCompile>
+    <ClCompile Include="WindowManagerClass.cpp">
+      <Filter>myClass\UTILITY</Filter>
+    </ClCompile>
+    <ClCompile Include="png24LoaderClass.cpp">
+      <Filter>myClass\UTILITY</Filter>
+    </ClCompile>
+    <ClCompile Include="shaderLoaderClass.cpp">
+      <Filter>myClass\UTILITY</Filter>
+    </ClCompile>
+    <ClCompile Include="stopWatch.cpp">
+      <Filter>myClass\UTILITY</Filter>
+    </ClCompile>
+    <ClCompile Include="matrixClass.cpp">
+      <Filter>myClass\UTILITY</Filter>
+    </ClCompile>
+    <ClCompile Include="mainController.cpp">
+      <Filter>myClass\mainController</Filter>
+    </ClCompile>
+    <ClCompile Include="setUp_TEXTURE.cpp">
+      <Filter>myClass\mainController</Filter>
+    </ClCompile>
+    <ClCompile Include="setUp_VAO.cpp">
+      <Filter>myClass\mainController</Filter>
+    </ClCompile>
+    <ClCompile Include="setUp_SHADER.cpp">
+      <Filter>myClass\mainController</Filter>
+    </ClCompile>
+    <ClCompile Include="setUp_FBO.cpp">
+      <Filter>myClass\mainController</Filter>
+    </ClCompile>
+    <ClCompile Include="DRAW.cpp">
+      <Filter>myClass\mainController</Filter>
+    </ClCompile>
+    <ClCompile Include="animationManager.cpp">
+      <Filter>myClass</Filter>
+    </ClCompile>
+    <ClCompile Include="generateManager.cpp">
+      <Filter>myClass</Filter>
+    </ClCompile>
+    <ClCompile Include="OSC.cpp">
+      <Filter>myClass\UTILITY</Filter>
+    </ClCompile>
+    <ClCompile Include="UDPClass.cpp">
+      <Filter>myClass\UTILITY</Filter>
+    </ClCompile>
+    <ClCompile Include="lifeGameManager.cpp">
+      <Filter>myClass</Filter>
+    </ClCompile>
+    <ClCompile Include="ovalManager.cpp">
+      <Filter>myClass</Filter>
+    </ClCompile>
+    <ClCompile Include="soundClass.cpp">
+      <Filter>myClass</Filter>
+    </ClCompile>
+    <ClCompile Include="windParticleManager.cpp">
+      <Filter>myClass</Filter>
+    </ClCompile>
+    <ClCompile Include="flyingBugManager.cpp">
+      <Filter>myClass</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="200416-FOREST.rc">
+      <Filter>リソース ファイル</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="200416-FOREST.ico">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="glew32.dll">
+      <Filter>リソース ファイル</Filter>
+    </None>
+    <None Include="fmodex64.dll">
+      <Filter>myClass\UTILITY</Filter>
+    </None>
+    <None Include="fmodexL64.dll">
+      <Filter>myClass\UTILITY</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="glew32.lib">
+      <Filter>リソース ファイル</Filter>
+    </Library>
+    <Library Include="glew32s.lib">
+      <Filter>リソース ファイル</Filter>
+    </Library>
+    <Library Include="OpenGL32.Lib">
+      <Filter>リソース ファイル</Filter>
+    </Library>
+    <Library Include="fmodex64_vc.lib">
+      <Filter>myClass\UTILITY</Filter>
+    </Library>
+    <Library Include="fmodexL64_vc.lib">
+      <Filter>myClass\UTILITY</Filter>
+    </Library>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="SHADER\TEST_VS.txt">
+      <Filter>myClass\SHADER</Filter>
+    </Text>
+    <Text Include="SHADER\TEST_FS.txt">
+      <Filter>myClass\SHADER</Filter>
+    </Text>
+    <Text Include="SHADER\FINAL_FS.txt">
+      <Filter>myClass\SHADER</Filter>
+    </Text>
+    <Text Include="SHADER\FINAL_VS.txt">
+      <Filter>myClass\SHADER</Filter>
+    </Text>
+    <Text Include="SHADER\ANIMATION_FS.txt">
+      <Filter>myClass\SHADER</Filter>
+    </Text>
+    <Text Include="SHADER\ANIMATION_VS.txt">
+      <Filter>myClass\SHADER</Filter>
+    </Text>
+    <Text Include="fmod.log">
+      <Filter>myClass\UTILITY</Filter>
+    </Text>
+    <Text Include="SHADER\POINT_FS.txt">
+      <Filter>myClass\SHADER</Filter>
+    </Text>
+    <Text Include="SHADER\POINT_VS.txt">
+      <Filter>myClass\SHADER</Filter>
+    </Text>
+    <Text Include="SIMPLE_VS.txt">
+      <Filter>myClass\SHADER</Filter>
+    </Text>
+    <Text Include="SIMPLE_FS.txt">
+      <Filter>myClass\SHADER</Filter>
+    </Text>
+  </ItemGroup>
+</Project>

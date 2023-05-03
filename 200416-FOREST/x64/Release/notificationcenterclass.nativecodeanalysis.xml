@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\annolab\desktop\200416-forest\200416-forest</FILEPATH>
+      <FILENAME>notificationcenterclass.cpp</FILENAME>
+      <LINE>84</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>6282</DEFECTCODE>
+    <DESCRIPTION>不適切な演算子です: ブール値のコンテキストの定数の代入式です。代わりに、'==' を使用してください。</DESCRIPTION>
+    <FUNCTION>NotificationCenterClass::keyEvent</FUNCTION>
+    <DECORATED>?keyEvent@NotificationCenterClass@@QEAAXPEAUHWND__@@I_K_J@Z</DECORATED>
+    <FUNCLINE>79</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\annolab\desktop\200416-forest\200416-forest</FILEPATH>
+      <FILENAME>notificationcenterclass.cpp</FILENAME>
+      <LINE>82</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6273</DEFECTCODE>
+    <DESCRIPTION>整数でない値が _Param_(2) として渡されました。'printf' への呼び出しには整数が必要です。実際の型: 'struct HWND__ *': ポインター値を渡す場合は、%p を使用してください。</DESCRIPTION>
+    <FUNCTION>NotificationCenterClass::keyEvent</FUNCTION>
+    <DECORATED>?keyEvent@NotificationCenterClass@@QEAAXPEAUHWND__@@I_K_J@Z</DECORATED>
+    <FUNCLINE>79</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\annolab\desktop\200416-forest\200416-forest</FILEPATH>
+      <FILENAME>notificationcenterclass.cpp</FILENAME>
+      <LINE>82</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6328</DEFECTCODE>
+    <DESCRIPTION>サイズの不一致: 'unsigned __int64' が _Param_(3) として渡されました。'int' が 'printf' への呼び出しに必要です。</DESCRIPTION>
+    <FUNCTION>NotificationCenterClass::keyEvent</FUNCTION>
+    <DECORATED>?keyEvent@NotificationCenterClass@@QEAAXPEAUHWND__@@I_K_J@Z</DECORATED>
+    <FUNCLINE>79</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\annolab\desktop\200416-forest\200416-forest</FILEPATH>
+      <FILENAME>notificationcenterclass.cpp</FILENAME>
+      <LINE>82</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6328</DEFECTCODE>
+    <DESCRIPTION>サイズの不一致: '__int64' が _Param_(4) として渡されました。'int' が 'printf' への呼び出しに必要です。</DESCRIPTION>
+    <FUNCTION>NotificationCenterClass::keyEvent</FUNCTION>
+    <DECORATED>?keyEvent@NotificationCenterClass@@QEAAXPEAUHWND__@@I_K_J@Z</DECORATED>
+    <FUNCLINE>79</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

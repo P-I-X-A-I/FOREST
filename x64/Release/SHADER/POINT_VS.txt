@@ -1,0 +1,29 @@
+#version 430
+
+// in value
+layout ( location = 0 ) in vec4 POSITION;
+layout ( location = 1 ) in vec4 COLOR;
+layout ( location = 2 ) in vec4 AUX;
+
+uniform mat4 MVP_MATRIX;
+
+
+// out value
+out vec4 color_VS;
+out vec4 aux_VS;
+
+void main()
+{
+	// position
+	vec4 mvpPos = MVP_MATRIX * POSITION;
+	gl_Position = mvpPos;
+
+	// color
+	color_VS = COLOR;
+
+	// aux
+	aux_VS = AUX;
+
+	// point size
+	gl_PointSize = 1.0 + (1.0 - COLOR.a);
+}

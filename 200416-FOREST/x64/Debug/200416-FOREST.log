@@ -1,0 +1,21 @@
+﻿  mainController.cpp
+c:\users\annolab\desktop\200416-forest\200416-forest\maincontroller.cpp(9): warning C4244: '引数': 'time_t' から 'unsigned int' への変換です。データが失われる可能性があります。
+c:\users\annolab\desktop\200416-forest\200416-forest\maincontroller.cpp(119): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+c:\users\annolab\desktop\200416-forest\200416-forest\maincontroller.cpp(272): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+c:\users\annolab\desktop\200416-forest\200416-forest\maincontroller.cpp(280): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+c:\users\annolab\desktop\200416-forest\200416-forest\maincontroller.cpp(288): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+c:\users\annolab\desktop\200416-forest\200416-forest\maincontroller.cpp(296): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+c:\users\annolab\desktop\200416-forest\200416-forest\maincontroller.cpp(304): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+c:\users\annolab\desktop\200416-forest\200416-forest\maincontroller.cpp(335): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\annolab\desktop\200416-forest\200416-forest\maincontroller.cpp(336): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\annolab\desktop\200416-forest\200416-forest\maincontroller.cpp(364): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\annolab\desktop\200416-forest\200416-forest\maincontroller.cpp(365): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\annolab\desktop\200416-forest\200416-forest\maincontroller.cpp(368): warning C4244: '=': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+c:\users\annolab\desktop\200416-forest\200416-forest\maincontroller.cpp(371): warning C4244: '=': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+c:\users\annolab\desktop\200416-forest\200416-forest\maincontroller.cpp(398): warning C4305: '初期化中': 'double' から 'float' へ切り詰めます。
+c:\users\annolab\desktop\200416-forest\200416-forest\maincontroller.cpp(399): warning C4305: '初期化中': 'double' から 'float' へ切り詰めます。
+c:\users\annolab\desktop\200416-forest\200416-forest\maincontroller.cpp(400): warning C4305: '初期化中': 'double' から 'float' へ切り詰めます。
+c:\users\annolab\desktop\200416-forest\200416-forest\maincontroller.cpp(402): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\annolab\desktop\200416-forest\200416-forest\maincontroller.cpp(405): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\annolab\desktop\200416-forest\200416-forest\maincontroller.cpp(407): warning C4305: '初期化中': 'double' から 'float' へ切り詰めます。
+  200416-FOREST.vcxproj -> C:\Users\annolab\Desktop\200416-FOREST\x64\Debug\200416-FOREST.exe

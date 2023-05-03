@@ -1,0 +1,246 @@
+﻿  200416-FOREST.cpp
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\UDPClass.h(7,16): error C5208: typedef 名で使用されている名前のないクラスでは、静的でないデータ メンバー、メンバーの列挙値、メンバー クラス以外のメンバーを宣言できません
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\mainController.h(100): warning C4305: '初期化中': 'double' から 'GLfloat' へ切り詰めます。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\200416-FOREST.cpp(194,11): warning C4477: 'printf' : 書式文字列 '%d' には、型 'int' の引数が必要ですが、可変個引数 1 は型 'time_t' です
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\200416-FOREST.cpp(194,11): message : 書式文字列に '%lld' を使用することをお勧めします
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\200416-FOREST.cpp(194,11): message : 書式文字列に '%Id' を使用することをお勧めします
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\200416-FOREST.cpp(194,11): message : 書式文字列に '%I64d' を使用することをお勧めします
+  animationManager.cpp
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\animationManager.cpp(55,16): warning C4305: '=': 'double' から 'float' へ切り詰めます。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\animationManager.cpp(94,35): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\animationManager.cpp(94,72): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\animationManager.cpp(95,35): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\animationManager.cpp(95,72): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\animationManager.cpp(96,35): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\animationManager.cpp(96,73): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\animationManager.cpp(97,35): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\animationManager.cpp(97,73): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\animationManager.cpp(191,15): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\animationManager.cpp(193,12): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\animationManager.cpp(193,33): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\animationManager.cpp(194,9): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\animationManager.cpp(194,33): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\animationManager.cpp(196,27): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\animationManager.cpp(197,27): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\animationManager.cpp(211,16): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\animationManager.cpp(239,45): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\animationManager.cpp(259,13): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+  DRAW.cpp
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\UDPClass.h(7,16): error C5208: typedef 名で使用されている名前のないクラスでは、静的でないデータ メンバー、メンバーの列挙値、メンバー クラス以外のメンバーを宣言できません
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\mainController.h(100): warning C4305: '初期化中': 'double' から 'GLfloat' へ切り詰めます。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\DRAW.cpp(25,15): warning C4805: '==': 演算中の 'BOOL' 型と 'bool' 型の混用は安全ではありません
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\DRAW.cpp(37,14): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\DRAW.cpp(45,18): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\DRAW.cpp(50,17): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\DRAW.cpp(53,78): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\DRAW.cpp(61,44): warning C4805: '==': 演算中の 'BOOL' 型と 'bool' 型の混用は安全ではありません
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\DRAW.cpp(67,24): warning C4305: '=': 'double' から 'GLfloat' へ切り詰めます。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\DRAW.cpp(138,46): warning C4244: '+=': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\DRAW.cpp(166,42): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\DRAW.cpp(166,29): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\DRAW.cpp(227,35): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\DRAW.cpp(231,35): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\DRAW.cpp(236,32): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\DRAW.cpp(240,33): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\DRAW.cpp(242,24): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\DRAW.cpp(243,20): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  flyingBugManager.cpp
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\flyingBugManager.cpp(43,27): warning C4305: '初期化中': 'double' から 'float' へ切り詰めます。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\flyingBugManager.cpp(87,31): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\flyingBugManager.cpp(88,31): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\flyingBugManager.cpp(92,26): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\flyingBugManager.cpp(92,52): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\flyingBugManager.cpp(93,26): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\flyingBugManager.cpp(93,52): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\flyingBugManager.cpp(94,28): warning C4305: '*=': 'double' から 'float' へ切り詰めます。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\flyingBugManager.cpp(95,28): warning C4305: '*=': 'double' から 'float' へ切り詰めます。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\flyingBugManager.cpp(104,23): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\flyingBugManager.cpp(105,23): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  generateManager.cpp
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\UDPClass.h(7,16): error C5208: typedef 名で使用されている名前のないクラスでは、静的でないデータ メンバー、メンバーの列挙値、メンバー クラス以外のメンバーを宣言できません
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\mainController.h(100): warning C4305: '初期化中': 'double' から 'GLfloat' へ切り詰めます。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\generateManager.cpp(51,51): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\generateManager.cpp(52,51): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\generateManager.cpp(55,43): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\generateManager.cpp(94,36): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\generateManager.cpp(93,36): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\generateManager.cpp(118,16): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\generateManager.cpp(119,16): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+  lifeGameManager.cpp
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\UDPClass.h(7,16): error C5208: typedef 名で使用されている名前のないクラスでは、静的でないデータ メンバー、メンバーの列挙値、メンバー クラス以外のメンバーを宣言できません
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\mainController.h(100): warning C4305: '初期化中': 'double' から 'GLfloat' へ切り詰めます。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\lifeGameManager.cpp(36,32): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\lifeGameManager.cpp(37,24): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\lifeGameManager.cpp(51,21): warning C4305: '=': 'double' から 'float' へ切り詰めます。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\lifeGameManager.cpp(52,20): warning C4305: '=': 'double' から 'float' へ切り詰めます。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\lifeGameManager.cpp(86,32): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\lifeGameManager.cpp(87,24): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\lifeGameManager.cpp(153,29): warning C4305: '+=': 'double' から 'float' へ切り詰めます。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\lifeGameManager.cpp(163,29): warning C4305: '-=': 'double' から 'float' へ切り詰めます。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\lifeGameManager.cpp(196,25): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\lifeGameManager.cpp(199,23): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\lifeGameManager.cpp(200,22): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\lifeGameManager.cpp(201,23): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\lifeGameManager.cpp(225,22): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\lifeGameManager.cpp(226,22): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\lifeGameManager.cpp(235,22): warning C4305: '*=': 'double' から 'float' へ切り詰めます。
+  mainController.cpp
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\UDPClass.h(7,16): error C5208: typedef 名で使用されている名前のないクラスでは、静的でないデータ メンバー、メンバーの列挙値、メンバー クラス以外のメンバーを宣言できません
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\mainController.h(100): warning C4305: '初期化中': 'double' から 'GLfloat' へ切り詰めます。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\mainController.cpp(9,12): warning C4244: '引数': 'time_t' から 'unsigned int' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\mainController.cpp(143,50): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\mainController.cpp(296,15): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\mainController.cpp(304,16): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\mainController.cpp(312,16): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\mainController.cpp(320,16): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\mainController.cpp(328,16): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\mainController.cpp(359,19): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\mainController.cpp(360,21): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\mainController.cpp(388,20): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\mainController.cpp(389,23): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\mainController.cpp(392,51): warning C4244: '=': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\mainController.cpp(395,67): warning C4244: '=': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\mainController.cpp(422,21): warning C4305: '初期化中': 'double' から 'float' へ切り詰めます。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\mainController.cpp(423,24): warning C4305: '初期化中': 'double' から 'float' へ切り詰めます。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\mainController.cpp(424,24): warning C4305: '初期化中': 'double' から 'float' へ切り詰めます。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\mainController.cpp(426,18): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\mainController.cpp(429,19): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\mainController.cpp(431,46): warning C4305: '初期化中': 'double' から 'float' へ切り詰めます。
+  matrixClass.cpp
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\matrixClass.cpp(171,15): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\matrixClass.cpp(185,15): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\matrixClass.cpp(199,15): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\matrixClass.cpp(335,19): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\matrixClass.cpp(347,19): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\matrixClass.cpp(359,19): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\matrixClass.cpp(392,15): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\matrixClass.cpp(393,32): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\matrixClass.cpp(393,13): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\matrixClass.cpp(395,10): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\matrixClass.cpp(410,10): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\matrixClass.cpp(411,10): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\matrixClass.cpp(412,10): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+  NotificationCenterClass.cpp
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\UDPClass.h(7,16): error C5208: typedef 名で使用されている名前のないクラスでは、静的でないデータ メンバー、メンバーの列挙値、メンバー クラス以外のメンバーを宣言できません
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\mainController.h(100): warning C4305: '初期化中': 'double' から 'GLfloat' へ切り詰めます。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\NotificationCenterClass.cpp(94,9): warning C4477: 'printf' : 書式文字列 '%d' には、型 'int' の引数が必要ですが、可変個引数 1 は型 'HWND' です
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\NotificationCenterClass.cpp(94,9): warning C4313: 'printf': 書式文字列内の '%d' が引数 1 ('HWND' 型) と競合しています
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\NotificationCenterClass.cpp(94,9): warning C4477: 'printf' : 書式文字列 '%d' には、型 'int' の引数が必要ですが、可変個引数 2 は型 'WPARAM' です
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\NotificationCenterClass.cpp(94,9): message : 書式文字列に '%lld' を使用することをお勧めします
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\NotificationCenterClass.cpp(94,9): message : 書式文字列に '%Id' を使用することをお勧めします
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\NotificationCenterClass.cpp(94,9): message : 書式文字列に '%I64d' を使用することをお勧めします
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\NotificationCenterClass.cpp(94,9): warning C4477: 'printf' : 書式文字列 '%d' には、型 'int' の引数が必要ですが、可変個引数 3 は型 'LPARAM' です
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\NotificationCenterClass.cpp(94,9): message : 書式文字列に '%lld' を使用することをお勧めします
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\NotificationCenterClass.cpp(94,9): message : 書式文字列に '%Id' を使用することをお勧めします
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\NotificationCenterClass.cpp(94,9): message : 書式文字列に '%I64d' を使用することをお勧めします
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\NotificationCenterClass.cpp(95,23): warning C4305: '初期化中': 'double' から 'float' へ切り詰めます。
+  OpenGLInitializerClass.cpp
+  OSC.cpp
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\OSC.cpp(1371,25): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  ovalManager.cpp
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\ovalManager.cpp(19,17): warning C4305: '=': 'double' から 'float' へ切り詰めます。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\ovalManager.cpp(21,45): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\ovalManager.cpp(46,33): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\ovalManager.cpp(47,44): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\ovalManager.cpp(64,33): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\ovalManager.cpp(65,44): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\ovalManager.cpp(68,76): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\ovalManager.cpp(69,76): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\ovalManager.cpp(82,17): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\ovalManager.cpp(87,50): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\ovalManager.cpp(88,50): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\ovalManager.cpp(98,45): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\ovalManager.cpp(112,30): warning C4305: '-=': 'double' から 'float' へ切り詰めます。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\ovalManager.cpp(119,76): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\ovalManager.cpp(120,76): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\ovalManager.cpp(126,33): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\ovalManager.cpp(130,31): warning C4305: '-=': 'double' から 'float' へ切り詰めます。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\ovalManager.cpp(137,50): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\ovalManager.cpp(138,50): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\ovalManager.cpp(140,60): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\ovalManager.cpp(141,60): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\ovalManager.cpp(150,15): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\ovalManager.cpp(162,17): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\ovalManager.cpp(180,21): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\ovalManager.cpp(181,21): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\ovalManager.cpp(184,12): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\ovalManager.cpp(195,35): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\ovalManager.cpp(196,35): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\ovalManager.cpp(211,14): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\ovalManager.cpp(215,15): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\ovalManager.cpp(221,15): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\ovalManager.cpp(253,15): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\ovalManager.cpp(254,15): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\ovalManager.cpp(256,41): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\ovalManager.cpp(257,41): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\ovalManager.cpp(258,41): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\ovalManager.cpp(259,41): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\ovalManager.cpp(272,61): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\ovalManager.cpp(273,61): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\ovalManager.cpp(283,39): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\ovalManager.cpp(284,39): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  png24LoaderClass.cpp
+  setUp_FBO.cpp
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\UDPClass.h(7,16): error C5208: typedef 名で使用されている名前のないクラスでは、静的でないデータ メンバー、メンバーの列挙値、メンバー クラス以外のメンバーを宣言できません
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\mainController.h(100): warning C4305: '初期化中': 'double' から 'GLfloat' へ切り詰めます。
+  setUp_SHADER.cpp
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\UDPClass.h(7,16): error C5208: typedef 名で使用されている名前のないクラスでは、静的でないデータ メンバー、メンバーの列挙値、メンバー クラス以外のメンバーを宣言できません
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\mainController.h(100): warning C4305: '初期化中': 'double' から 'GLfloat' へ切り詰めます。
+  setUp_TEXTURE.cpp
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\UDPClass.h(7,16): error C5208: typedef 名で使用されている名前のないクラスでは、静的でないデータ メンバー、メンバーの列挙値、メンバー クラス以外のメンバーを宣言できません
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\mainController.h(100): warning C4305: '初期化中': 'double' から 'GLfloat' へ切り詰めます。
+  setUp_VAO.cpp
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\UDPClass.h(7,16): error C5208: typedef 名で使用されている名前のないクラスでは、静的でないデータ メンバー、メンバーの列挙値、メンバー クラス以外のメンバーを宣言できません
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\mainController.h(100): warning C4305: '初期化中': 'double' から 'GLfloat' へ切り詰めます。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\setUp_VAO.cpp(66,19): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\setUp_VAO.cpp(67,27): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\setUp_VAO.cpp(69,13): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\setUp_VAO.cpp(70,42): warning C4305: '初期化中': 'double' から 'float' へ切り詰めます。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\setUp_VAO.cpp(72,52): warning C4305: '初期化中': 'double' から 'float' へ切り詰めます。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\setUp_VAO.cpp(73,44): warning C4305: '初期化中': 'double' から 'float' へ切り詰めます。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\setUp_VAO.cpp(78,18): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\setUp_VAO.cpp(85,35): warning C4244: '=': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\setUp_VAO.cpp(89,42): warning C4244: '=': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+  shaderLoaderClass.cpp
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\shaderLoaderClass.cpp(39,24): warning C4244: '初期化中': 'std::streamoff' から 'unsigned long' への変換です。データが失われる可能性があります。
+  soundClass.cpp
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\soundClass.cpp(200,30): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\soundClass.cpp(207,61): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\soundClass.cpp(218,82): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\soundClass.cpp(237,23): warning C4305: '=': 'double' から 'float' へ切り詰めます。
+  stopWatch.cpp
+  コンパイル中...
+  UDPClass.cpp
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\UDPClass.h(7,16): error C5208: typedef 名で使用されている名前のないクラスでは、静的でないデータ メンバー、メンバーの列挙値、メンバー クラス以外のメンバーを宣言できません
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\UDPClass.cpp(22,6): warning C4101: 'sendLength': ローカル変数は 1 度も使われていません。
+  WindowManagerClass.cpp
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\WindowManagerClass.cpp(436,3): warning C4065: switch 文に 'default' はありますが 'case' ラベルがありません。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\WindowManagerClass.cpp(402,7): warning C4101: 'winRect': ローカル変数は 1 度も使われていません。
+  windParticleManager.cpp
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\windParticleManager.cpp(15,50): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\windParticleManager.cpp(16,50): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\windParticleManager.cpp(23,35): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\windParticleManager.cpp(28,32): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\windParticleManager.cpp(31,47): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\windParticleManager.cpp(32,47): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\windParticleManager.cpp(37,20): warning C4305: '=': 'double' から 'float' へ切り詰めます。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\windParticleManager.cpp(65,25): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\windParticleManager.cpp(66,26): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\windParticleManager.cpp(88,18): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\windParticleManager.cpp(91,30): warning C4244: '/=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\windParticleManager.cpp(92,30): warning C4244: '/=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\windParticleManager.cpp(102,25): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\windParticleManager.cpp(103,26): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\windParticleManager.cpp(124,25): warning C4244: '*=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\windParticleManager.cpp(125,26): warning C4244: '*=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\windParticleManager.cpp(140,37): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\windParticleManager.cpp(141,28): warning C4305: '+=': 'double' から 'float' へ切り詰めます。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\windParticleManager.cpp(145,65): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\windParticleManager.cpp(146,50): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\windParticleManager.cpp(164,24): warning C4305: '*=': 'double' から 'float' へ切り詰めます。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\windParticleManager.cpp(169,59): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\windParticleManager.cpp(170,51): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\windParticleManager.cpp(176,48): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\windParticleManager.cpp(177,48): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\windParticleManager.cpp(179,72): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\git-managed\FOREST\200416-FOREST\windParticleManager.cpp(181,34): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。

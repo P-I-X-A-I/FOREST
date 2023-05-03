@@ -1,0 +1,41 @@
+#version 430
+
+// from vs
+in vec4 texcoord_VS;
+
+// out color
+layout ( location = 0 ) out vec4 FRAG_COLOR_0;
+
+// built in variable
+// vec4 gl_FragCoord;
+// bool gl_FrontFacing;
+// vec2 gl_PointCoord;
+
+uniform sampler2D TEX_INDEX;
+
+
+void main()
+{
+	vec4 texColor = texture( TEX_INDEX, texcoord_VS.st);
+
+	vec3 invColor;
+
+	if( texcoord_VS.z > 0.3 )
+	{
+		invColor = sqrt(texColor.rgb);
+		//invColor = texColor.rgb;
+	}
+	else
+	{
+		invColor = pow( (vec3(1.0) - texColor.rgb), vec3(2.0) );
+	}
+
+	// normal color
+	// float sizeAlpha = 1.0 - texcoord_VS.w * 0.2;
+	FRAG_COLOR_0 = vec4(invColor, texColor.a);
+
+
+
+	// depth
+	gl_FragDepth = gl_FragCoord.z;
+}
